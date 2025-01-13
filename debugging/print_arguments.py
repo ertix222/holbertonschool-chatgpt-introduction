@@ -7,3 +7,4 @@ else:
     print("Liste des arguments :")
     for i, arg in enumerate(sys.argv):
         print(f"Argument {i}: {arg}")
+        
